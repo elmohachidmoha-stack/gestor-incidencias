@@ -1,0 +1,6 @@
+# Copia este fichero como application-local.properties (NO se sube a Git)
+# y pon la misma contraseña que en DB_PASSWORD del fichero .env.
+spring.datasource.password=cambia_esta_contrasena
+
+# En local mostramos el detalle del health (estado de la BD, disco...).
+management.endpoint.health.show-details=always
