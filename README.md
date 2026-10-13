@@ -1,10 +1,6 @@
 # gestor-incidencias
 API REST para gestionar incidencias con Java, Spring Boot y PostgreSQL
 
-## Cómo se ha desarrollado
-Este proyecto se desarrolla con ayuda de [Claude Code](https://claude.com/claude-code).
-Yo reviso, ejecuto y documento cada parte del código antes de incorporarla.
-
 ## Puesta en marcha
 
 ### Requisitos
